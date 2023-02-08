@@ -53,7 +53,7 @@ img{
 }
 a:focus,
 a:hover {
-    color: #d42f38;
+    color: #3CC74A;
     text-decoration: none;
 }
 a,
@@ -171,7 +171,7 @@ label {
 .text-white { color: #fff;}
 .text-black { color: #444444; }
 .text-theme { color: #555555; }
-.text-red { color: #d42f38; }
+.text-red { color: #3CC74A; }
 .text-white h1, .text-white p, .text-white h2{ color: #555555; }
 
 /* ============= 4. Text align ============= */
@@ -208,7 +208,7 @@ option {
 }
 input:focus {
     background: transparent;
-    border: 1px solid #d42f38;
+    border: 1px solid #3CC74A;
 }
 textarea {
     resize: vertical;
@@ -502,7 +502,7 @@ textarea:focus {
 /*** colored background ***/
  .white-bg { background: #fff }
  .gray-bg { background: #f6f6f6 }
- .red-bg { background: #d42f38}
+ .red-bg { background: #3CC74A}
  .default-bg { background: #50C1F0 }
  .transparent-bg { background: transparent }
  

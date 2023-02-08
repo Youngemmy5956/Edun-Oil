@@ -109,7 +109,7 @@
   position: relative;
 }
 .slick-dots li button {
-  background: #d42f38 none repeat scroll 0 0;
+  background: #3CC74A none repeat scroll 0 0;
   border: 0 none;
   border-radius: 20px;
   color: transparent;
@@ -161,7 +161,7 @@
 }
 .hero-item .content h1 span {
   animation-fill-mode: backwards;
-  color: #d42f38;
+  color: #3CC74A;
 }
 .hero-item .content p {
   animation-delay: 1.2s;
@@ -187,7 +187,7 @@
   transition:.3s;
 }
 .hero-item .content a:hover {
-   background-color: #d42f38;border-color:#d42f38; 
+   background-color: #3CC74A;border-color:#3CC74A; 
 }
 .hero-item .images {
   padding: 0;

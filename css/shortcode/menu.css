@@ -86,7 +86,7 @@
   text-transform: uppercase;
   transition: all 0.3s ease 0s;
 }
-.main-menu ul li ul > li > a:hover{color:#d42f38;margin-left:4px;}
+.main-menu ul li ul > li > a:hover{color:#3CC74A;margin-left:4px;}
 .main-menu ul li ul > li > a i{margin-right:10px;}
 .main-menu ul li:hover ul {
   opacity: 1;
@@ -97,7 +97,7 @@
  /*Sticky Menu*/
 .sticky {
   animation: 300ms ease-in-out 0s normal none 1 running fadeInDown;
-  background: #d42f38 none repeat scroll 0 0;
+  background: #3CC74A none repeat scroll 0 0;
   left: 0;
   margin: auto;
   position: fixed;

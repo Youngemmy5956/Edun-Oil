@@ -44,7 +44,7 @@
   padding-bottom: 6px;
 }
 .footer-menu ul li:last-child a{padding-bottom:0;}
-.footer-menu ul li a:hover{color: #d42f38;}
+.footer-menu ul li a:hover{color: #3CC74A;}
 
 /* Footer News */
 .news-img {
@@ -106,7 +106,7 @@
     background: #fff none repeat scroll 0 0;
     border: medium none;
     border-radius: 0;
-    color: #d42f38;
+    color: #3CC74A;
     font-size: 14px;
     font-weight: 600;
     height: 35px;
@@ -119,7 +119,7 @@
     transition: .4s;
     top: 87%;
 }
-.search-input .search-button:hover{color:#fff;background:#d42f38;}
+.search-input .search-button:hover{color:#fff;background:#3CC74A;}
 /* Footer Bottom */
 .footer-bottom {
   border-top: 1px solid #fff;
@@ -132,7 +132,7 @@
   margin: 0;
   transition: all 0.3s ease 0s;
 }
-.footer-bottom > p a:hover{color:#d42f38}
+.footer-bottom > p a:hover{color:#3CC74A}
 
 
 /* Mail Chimp */
