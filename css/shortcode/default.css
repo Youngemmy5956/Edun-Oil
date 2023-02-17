@@ -1,12 +1,6 @@
 /* ========================================================================
 
-	Template: Carspa
-	Css Name: Default Customize Css
-	Version: 1
-	Design and Developed by:HasTech
-	NOTE: This is default style sheet of template, 
-	This file contains the styling for the actual Template. 
-	Please do not change anything here! write in a custom.css file if required!
+	
 
 ================================================================================== */
 
@@ -533,5 +527,5 @@ textarea:focus {
  .bg-2 { background: url(../../img/bg/1.png) repeat scroll 0 0 / cover ;}
  .bg-3 { background: url(../../img/bg/2.png) repeat scroll 0 0 / cover ;}
  .bg-4 { background: url(../../img/bg/3.png) repeat scroll 0 0 / cover ;}
- .bg-5 { background: url(../../img/bg/banner-bg.jpg) repeat scroll 0 0 / cover ;}
+ .bg-5 { background: url(../../img/bg/ed5.jpg) repeat scroll 0 0 / cover ;}
  
